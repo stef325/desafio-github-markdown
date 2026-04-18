@@ -17,4 +17,5 @@ Utilizar os principais recursos disponiveis no github para versionamento de cód
 * [x] Colaborador fazer fork do projeto 
 * [x] Colaborador modifica o repo original
 * [x] Colaborador cria branch e abre pull request
-* [ ] Aceitar pull request 
+* [x] Aceitar pull request 
+* [x] Finalizando projeto
