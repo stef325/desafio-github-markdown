@@ -11,4 +11,9 @@ Utilizar os principais recursos disponiveis no github para versionamento de cód
 * [x] Criar um repositório
 * [x] Adicionar README.md
 * [x] Usar Github.dev
+* [x] Fazer primeiro commit
 * [x] Adicionar colaborador
+* [x] Abrir issue
+* [x] Colaborador fazer fork do projeto 
+* [x] Colaborador modifica o repo original e abre pull request
+* [ ] Aceitar pull request 
